@@ -1,10 +1,9 @@
 import './App.css';
-import HomePage from './homePage.Cmponent';
+import HomePage from '../src/Pages/homePage.component';
 function App() {
   return (
     <div>
  <HomePage/>
- <h1>hello worlds</h1>
     </div>
   );
 }
